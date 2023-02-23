@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 
+
+// styled component to ensure .button class does not spill over to other components
 const Button = styled.button`
   
   font: inherit;
